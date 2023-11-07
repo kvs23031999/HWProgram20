@@ -9,7 +9,7 @@ public class HWProgram20 {
         User user2 = new User("Natalia",1973,9,10,"kne10091973@gmail.com","0505771526","Kulishova",60,120,1500,50);
         User user3 = new User("Vladyslav",1999,3,23,"kvs230398@gmail.com","0685503985","Kulishov",95,130,2000,24);
         User user4 = new User("Artem",2012,12,25,"kac25122012@gmail.com","0950298373","Kulishov",40,110,500,10);
-        User user5 = new User("Anastasia",2001,7,12,"aburlachka7@gmail.com","0669531216","Burlachka",60,120,2500,23);
+        User user5 = new User("Anastasia",2001,7,12,"aburlachka7@gmail.com","0669531216","Burlachka",60,120,2500,22);
         user1.printAccountInfo();
         user2.printAccountInfo();
         user3.printAccountInfo();
